@@ -1,0 +1,13 @@
+# Bỏ qua tất cả node_modules ở bất kỳ thư mục nào (cho FE)
+node_modules/
+
+# Bỏ qua thư mục build của Next.js
+.next/
+
+# Bỏ qua tất cả vendor ở bất kỳ thư mục nào (cho Laravel BE)
+vendor/
+
+# Các file hệ thống/IDE
+.cursor
+.DS_Store
+.env
